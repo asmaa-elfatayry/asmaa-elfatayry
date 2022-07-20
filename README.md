@@ -15,6 +15,19 @@
 
 - 📫 How to reach me **asmaa.elfatayry@gmail.com**
 
+- 🔍 Searching for Information skill
+
+- ✨ Hobbies
+ 
+  - 📖 reading
+  - 🤸‍♂️ sport
+  - 💡 problem solving
+  - ⚡ knowledge about cultures
+ 
+ <br>
+ <p align="left"> Finally,  I would be grateful to anyone who gives me the advice to develop my code writing or any other professional advice. </p>
+ <hr width="90%" align="center">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/asmaaelfatayry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="asmaaelfatayry" height="30" width="40" /></a>
