@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asmaa</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+<p>hello, welcome to you in my profile, I'm Asmaa I'm a student of the computer science faculty.
+I have a passion for learning front-end programming and I love to do this work . I try to keep learning every day and gain more knowledge about sciences and new technology. I would be grateful to anyone who gives me the advice to develop my code writing or any other professional advice.</p>
+
+
 <img width="400" align="right" alt="code" src="https://th.bing.com/th/id/R.ec5661da953af647bf0cd8bc2c852afb?rik=U8dgcy%2bZUip4Og&riu=http%3a%2f%2fcdn.lowgif.com%2ffull%2f64fbeee9caf183b6-.gif&ehk=ujY%2b0qjns9xMDgRzomapfqaky357HrzgXMMM0SBDflg%3d&risl=&pid=ImgRaw&r=0" alt="">
           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaa-elfatayry&label=Profile%20views&color=0e75b6&style=flat" alt="asmaa-elfatayry" /> </p>
