@@ -25,8 +25,8 @@
   - ⚡ knowledge about cultures
  
  <br>
-###### Finally,  I would be grateful to anyone who gives me the advice to develop my code writing or any other professional advice 🙏.
- <hr width="90%" height="2px" align="center">
+<p style="font-size:14px"> Finally,  I would be grateful to anyone who gives me the advice to develop my code writing or any other professional advice 🙏.</p>
+ <hr style=" width:90% height:2px align-align:center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
