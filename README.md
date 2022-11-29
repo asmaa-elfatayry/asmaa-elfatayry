@@ -7,7 +7,7 @@
           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaa-elfatayry&label=Profile%20views&color=0e75b6&style=flat" alt="asmaa-elfatayry" /> </p>
 
-- 🔭 I’m currently working on [Challenges in the frontend mentor site](https://github.com/asmaa-elfatayry/Huddle-landing-page-11th-frontend-mentor)
+- 🔭 I’m currently working on [Challenges in the frontend mentor site](https://github.com/asmaa-elfatayry/Frontend-Mentor-Challenges)
 
 - 🌱 I’m currently learning **SCSS, Paython**
 
