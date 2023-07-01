@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Challenges in the frontend mentor site](https://github.com/asmaa-elfatayry/Frontend-Mentor-Challenges)
 
-- 🌱 I’m currently learning **SCSS, Python**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, SCSS**
 
 - 📫 How to reach me **asmaa.elfatayry@gmail.com**
 
