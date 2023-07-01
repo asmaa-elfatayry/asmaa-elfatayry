@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Challenges in the frontend mentor site](https://github.com/asmaa-elfatayry/Frontend-Mentor-Challenges)
 
-- 🌱 I’m currently learning **SCSS, Paython**
+- 🌱 I’m currently learning **SCSS, Python**
 
-- 💬 Ask me about **html , CSS, javascript**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **asmaa.elfatayry@gmail.com**
 
@@ -19,21 +19,21 @@
 
 - ✨ Hobbies
  
-  - 📖 reading
-  - 🤸‍♂️ sport
-  - 💡 problem solving
-  - ⚡ knowledge about cultures
+  - 📖 Reading
+  - 🤸‍♂️ Sports
+  - 💡 Problem-solving
+  - ⚡ Knowledge about cultures
  
  <br>
-<p style="font-size:12px"> Finally,  I would be grateful to anyone who gives me the advice to develop my code writing or any other professional advice 🙏.</p>
- <hr style=" width:90% height:2px align-align:center">
+<p style="font-size:12px">Finally, I would be grateful to anyone who gives me advice to develop my coding skills or any other professional advice 🙏.</p>
+ <hr style=" width:90%; height:2px; align-align:center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/asmaaelfatayry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="asmaaelfatayry" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asmaa elfatayry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaa elfatayry" height="30" width="40" /></a>
-<a href="https://fb.com/asmaa elfatayry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmaa elfatayry" height="30" width="40" /></a>
-<a href="https://www.behance.net/asmaa elfatayry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asmaa elfatayry" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asmaa-elfatayry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmaa-elfatayry" height="30" width="40" /></a>
+<a href="https://fb.com/asmaa.elfatayry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmaa-elfatayry" height="30" width="40" /></a>
+<a href="https://www.behance.net/asmaaelfatayry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asmaa-elfatayry" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/evet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="evet" height="30" width="40" /></a>
 </p>
 <br>
@@ -45,7 +45,5 @@
 
 <p  style="width:100%">&nbsp;<img width="450px"src="https://github-readme-stats.vercel.app/api?username=asmaa-elfatayry&show_icons=true&locale=en" alt="asmaa-elfatayry" /></p>
 <p style="width:100%" ><img width="450px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaa-elfatayry&show_icons=true&locale=en&layout=compact" alt="asmaa-elfatayry" /></p>
-
-
 
 <p style="width:100%"  ><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaa-elfatayry&" alt="asmaa-elfatayry" /></p>
