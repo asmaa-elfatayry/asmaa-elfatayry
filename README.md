@@ -45,6 +45,5 @@
 
 <img align="left" width="48%" height="250"  src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaa-elfatayry&show_icons=true&locale=en&layout=compact" alt="asmaa-elfatayry" />
 <img align="right" width="48%" height="250"  src="https://github-readme-stats.vercel.app/api?username=asmaa-elfatayry&show_icons=true&locale=en" alt="asmaa-elfatayry" />
-
-<br>
+-
 <img width="48%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asmaa-elfatayry&" alt="asmaa-elfatayry" />
