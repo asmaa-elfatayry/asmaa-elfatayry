@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Challenges in the frontend mentor site](https://github.com/asmaa-elfatayry/Frontend-Mentor-Challenges)
 
-- 🌱 I’m currently learning **React**
+<!--- 🌱 I’m currently learning **React** -->
 
 - 💬 Ask me about **HTML, CSS, JavaScript, SCSS**
 
