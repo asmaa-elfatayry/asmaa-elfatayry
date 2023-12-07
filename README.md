@@ -12,7 +12,7 @@
 <!--- 🌱 I’m currently learning **React** -->
 
 - 📚 I am currently interning at ITI on Professional Web Development and Business Intelligence track for 9 months
-- 
+  
 - 💬 Ask me about **HTML, CSS, JavaScript, SCSS**
 
 - 📫 How to reach me **asmaa.elfatayry@gmail.com**
