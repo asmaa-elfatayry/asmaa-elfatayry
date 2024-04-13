@@ -12,9 +12,9 @@
 - 🔍 Searching for Information skill
 - ✨ Hobbies:
   - 📖 Reading
-  - 🤸‍♂️ Sports
-  - 💡 Problem-solving
-  - ⚡ Knowledge about cultures
+  - 🤸‍♂️ Passion for learning new things
+  - 💡 Handmade works
+  - ⚡ Knowledge about different cultures
 
 ---
 
