@@ -30,25 +30,34 @@
 
 ### Tech Stack:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40" />](#)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />](#)
+
+
+<div id="badges" >
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"  />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"  />
+    <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"  />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"  />
+      <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"  />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"  />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"  />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"  />
+    <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
 
 
 ---
 
-<div style="display:flex; justify-content:space-between ;align-items:flex-start; gap:15px">
-  <img style="width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmaa-elfatayry&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-  <img style="width:45%;" src="https://github-readme-stats.vercel.app/api?username=asmaa-elfatayry&show_icons=true&locale=en&layout=compact&theme=radical" alt="asmaa-elfatayry" />
+## GitHub Stats
+
+<div >
+    <img  src="https://streak-stats.demolab.com/?user=asmaa-elfatayry&theme=radical" alt="asmaa-elfatayry" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=asmaa-elfatayry&show_icons=true&locale=en&layout=compact&theme=radical" alt="asmaa-elfatayry" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa-elfatayry&layout=pie&show_icons=true&locale=en&theme=radical" alt="lang"/>
 </div>
 
 ---
