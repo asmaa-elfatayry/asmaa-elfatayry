@@ -55,8 +55,8 @@
 ## GitHub Stats
 
 <div >
-    <img  src="https://streak-stats.demolab.com/?user=asmaa-elfatayry&theme=radical" alt="asmaa-elfatayry" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=asmaa-elfatayry&show_icons=true&locale=en&layout=compact&theme=radical" alt="asmaa-elfatayry" />
+    <img width="400" height="170" src="https://streak-stats.demolab.com/?user=asmaa-elfatayry&theme=radical" alt="asmaa-elfatayry" />
+  <img width="400"    src="https://github-readme-stats.vercel.app/api?username=asmaa-elfatayry&show_icons=true&locale=en&layout=compact&theme=radical" alt="asmaa-elfatayry" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaa-elfatayry&layout=pie&show_icons=true&locale=en&theme=radical" alt="lang"/>
 </div>
 
