@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=asmaa-elfatayry&label=Profile%20views&color=C6538C&style=flat)
 
-- 📚 Currently interning at ITI on Professional Web Development and Business Intelligence track for 9 months
+- 🔭 Currently interning at ITI on Professional Web Development and Business Intelligence track for 9 months
 - 💬 Ask me about HTML, CSS, JavaScript, SCSS
 - 📫 How to reach me: asmaa.elfatayry@gmail.com
 - 🔍 Searching for Information skill
@@ -18,14 +18,16 @@
 
 ---
 
-### Connect with me:
+## Socials:
 
-
-[<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />](https://codepen.io/asmaaelfatayry)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/asmaa-elfatayry)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />](https://fb.com/asmaa.elfatayry)
 [<img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />](https://www.behance.net/asmaaelfatayry)
+[<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />](https://www.hackerrank.com/profile/Asmaa_Elfatayry)
 [<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />](https://codeforces.com/profile/evet)
+[<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />](https://codepen.io/asmaaelfatayry)
+[<img src="https://img.shields.io/badge/Frontend%20Mentor-848D97?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor" />](https://www.frontendmentor.io/profile/asmaa-elfatayry)
+
 ---
 
 ### Tech Stack:
