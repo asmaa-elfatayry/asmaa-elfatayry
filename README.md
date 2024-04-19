@@ -8,7 +8,7 @@
 
 - 🔭 Currently interning at ITI on Professional Web Development and Business Intelligence track for 9 months
 - 💬 Ask me about HTML, CSS, JavaScript, SCSS
-- 📫 How to reach me: asmaa.elfatayry@gmail.com
+- 📫 How to reach me: [Email Me](mailto:asmaa.elfatayry@gmail.com)
 - 🔍 Searching for Information skill
 - ✨ Hobbies:
   - 📖 Reading
@@ -70,6 +70,12 @@
     <img src="https://github-profile-trophy.vercel.app/?username=asmaa-elfatayry&no-bg=true&margin-w=15&row=1&column=5&theme=darkhub" alt="trophy">
   </a>
 </div>
+
+---
+
+## Helpful Resources
+
+[![Notion GitHub Profile Readme](https://img.shields.io/badge/View%20My-Notion%20GitHub%20Profile%20Readme-blue?style=for-the-badge)](https://jumpy-wasabi-81c.notion.site/GitHub-Profile-Readme-f8db2585078a4cb898836916107aa5c9)
 
 ---
 
