@@ -1,7 +1,7 @@
 
 <h1 align="center"> Welcome to Asmaa's Profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=7000&pause=2000&color=F9B9BA&random=false&width=600&lines=Someone+who+wishes+to+keep+learning+everyday" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=7000&pause=2000&color=C6538C&random=false&width=600&lines=Someone+who+wishes+to+keep+learning+everyday" alt="Typing SVG" /></a></h2>
 <img align="right" width="300" alt="code" src="https://th.bing.com/th/id/R.ec5661da953af647bf0cd8bc2c852afb?rik=U8dgcy%2bZUip4Og&riu=http%3a%2f%2fcdn.lowgif.com%2ffull%2f64fbeee9caf183b6-.gif&ehk=ujY%2b0qjns9xMDgRzomapfqaky357HrzgXMMM0SBDflg%3d&risl=&pid=ImgRaw">
 
 ![Profile views](https://komarev.com/ghpvc/?username=asmaa-elfatayry&label=Profile%20views&color=C6538C&style=flat)
