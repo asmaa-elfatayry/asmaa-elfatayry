@@ -6,15 +6,25 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=asmaa-elfatayry&label=Profile%20views&color=C6538C&style=flat)
 
-- 🔭 Currently working as a Junior.Net Full Stack Developer 
-- 💬 Ask me about HTML, CSS, JavaScript, SCSS
+
+- 🔭 Working as a .NET full-stack developer, focusing on backend APIs, MVC projects, and practical full-stack solutions.
+- 💬 Ask me about C#, ASP.NET Core, MVC, REST APIs, SQL Server, Angular, and front-end development.
 - 📫 How to reach me: [Email Me](mailto:asmaa.elfatayry@gmail.com)
-- 🔍 Searching for Information skill
-- ✨ Hobbies:
-  - 📖 Reading
-  - 🤸‍♂️ Passion for learning new things
-  - 💡 Handmade works
-  - ⚡ Knowledge about different cultures
+
+
+<br/>
+<br/>
+
+## ✨ Hobbies & Interests
+
+<div >
+  <img src="https://img.shields.io/badge/Reading-📚-white?style=for-the-badge" alt="Reading" />
+  <img src="https://img.shields.io/badge/Learning new things-🧠-lightblue?style=for-the-badge" alt="Learning" />
+  <img src="https://img.shields.io/badge/Exploring different technologies-💻-lightyellow?style=for-the-badge" alt="Exploring Technologies" />
+  <img src="https://img.shields.io/badge/Volunteering-🤝-skyblue?style=for-the-badge" alt="Volunteering" />
+</div>
+
+
 
 ---
 
@@ -34,25 +44,31 @@
 
 
 
-<div id="badges" >
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"  />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"  />
-    <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"  />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"  />
-      <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"  />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"  />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"  />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"  />
-    <img src="https://img.shields.io/badge/Visual Studio-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=for-the-badge&logo=visual-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 
 ---
+
+
+
 
 ## GitHub Stats
 
@@ -76,6 +92,9 @@
 ## Helpful Resources
 
 [![Notion GitHub Profile Readme](https://img.shields.io/badge/View%20My-Notion%20GitHub%20Profile%20Readme-blue?style=for-the-badge)](https://jumpy-wasabi-81c.notion.site/GitHub-Profile-Readme-f8db2585078a4cb898836916107aa5c9)
+
+[![Notion Design Patterns Simple Guide](https://img.shields.io/badge/View%20My-Notion%20GitHub%20Profile%20Readme-blue?style=for-the-badge)](https://www.notion.so/Design-Patterns-Simple-Guide-2cd5b020cd9a808cb9afda329d688d5f?source=copy_link)
+
 
 ---
 
