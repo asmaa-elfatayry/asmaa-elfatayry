@@ -6,14 +6,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=asmaa-elfatayry&label=Profile%20views&color=C6538C&style=flat)
 
+- 🔭 Working as a .NET full-stack developer with a strong backend focus and hands-on experience in building production-ready applications.
+- 🌱 Currently improving my knowledge in system design, clean architecture, and design patterns.
+- 💬 Ask me about C#, ASP.NET Core, MVC, REST APIs, SQL Server, Angular, and full-stack best practices.
 
-- 🔭 Working as a .NET full-stack developer, focusing on backend APIs, MVC projects, and practical full-stack solutions.
-- 💬 Ask me about C#, ASP.NET Core, MVC, REST APIs, SQL Server, Angular, and front-end development.
-- 📫 How to reach me: [Email Me](mailto:asmaa.elfatayry@gmail.com)
+## 📫 How to reach me
+
+[![Email](https://img.shields.io/badge/Email-asmaa.elfatayry%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:asmaa.elfatayry@gmail.com)
 
 
-
-<br/>
 
 ## ✨ Hobbies & Interests
 
@@ -28,7 +29,7 @@
 
 ---
 
-## Socials:
+## 🌐 Socials:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/asmaa-elfatayry)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />](https://www.facebook.com/share/1GsK8VmY3F/)
@@ -40,7 +41,7 @@
 
 ---
 
-## Tech Stack:
+## 🧰 Tech Stack:
 
 
 
@@ -80,7 +81,7 @@
 
 ---
 -->
-## github-profile-trophy
+## 🏆 github-profile-trophy
 
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -90,7 +91,7 @@
 
 ---
 
-## Helpful Resources
+## 🔗 Helpful Resources
 
 <div style="display: flex;  flex-wrap: wrap;">
   <a href="https://jumpy-wasabi-81c.notion.site/GitHub-Profile-Readme-f8db2585078a4cb898836916107aa5c9">
@@ -105,6 +106,9 @@
 ---
 
 
-<p style="font-size:12px">Finally, I would be grateful to anyone who gives me advice to develop my coding skills or any other professional advice 🙏.</p>
+<p style="font-size:12px; text-align:center;">
+  Finally, I would be grateful for any advice to help me improve my coding skills or grow professionally 🙏
+</p>
 
-<hr style="width:90%; height:2px; align-align:center">
+<hr style="width:90%; height:2px; border:none; background-color:#e5e5e5; margin:auto;">
+
