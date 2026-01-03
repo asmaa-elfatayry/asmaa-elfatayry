@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Email Me](mailto:asmaa.elfatayry@gmail.com)
 
 
-<br/>
+
 <br/>
 
 ## ✨ Hobbies & Interests
@@ -68,7 +68,7 @@
 ---
 
 
-
+<!--
 
 ## GitHub Stats
 
@@ -79,6 +79,7 @@
 </div>
 
 ---
+-->
 ## github-profile-trophy
 
 <div align="left">
@@ -91,10 +92,15 @@
 
 ## Helpful Resources
 
-[![Notion GitHub Profile Readme](https://img.shields.io/badge/View%20My-Notion%20GitHub%20Profile%20Readme-blue?style=for-the-badge)](https://jumpy-wasabi-81c.notion.site/GitHub-Profile-Readme-f8db2585078a4cb898836916107aa5c9)
+<div style="display: flex;  flex-wrap: wrap;">
+  <a href="https://jumpy-wasabi-81c.notion.site/GitHub-Profile-Readme-f8db2585078a4cb898836916107aa5c9">
+    <img src="https://img.shields.io/badge/View%20My-Notion%20GitHub%20Profile%20Readme-blue?style=for-the-badge" alt="Notion GitHub Profile Readme">
+  </a>
 
-[![Notion Design Patterns Simple Guide](https://img.shields.io/badge/View%20My-Notion%20Design%20Patterns%20Guide-lightgreen?style=for-the-badge)](https://www.notion.so/Design-Patterns-Simple-Guide-2cd5b020cd9a808cb9afda329d688d5f?source=copy_link)
-
+  <a href="https://www.notion.so/Design-Patterns-Simple-Guide-2cd5b020cd9a808cb9afda329d688d5f?source=copy_link">
+    <img src="https://img.shields.io/badge/View%20My-Notion%20Design%20Patterns%20Guide-lightgreen?style=for-the-badge" alt="Notion Design Patterns Guide">
+  </a>
+</div>
 
 ---
 
