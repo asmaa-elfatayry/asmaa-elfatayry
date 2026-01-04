@@ -80,7 +80,7 @@
 </div>
 
 ---
--->
+
 ## 🏆 github-profile-trophy
 
 <div align="left">
@@ -88,6 +88,14 @@
     <img src="https://github-profile-trophy.vercel.app/?username=asmaa-elfatayry&no-bg=true&margin-w=15&row=1&column=5&theme=darkhub" alt="trophy">
   </a>
 </div>
+-->
+
+<!-- CONTRIBUTIONS -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/asmaa-elfatayry/github-contribution-image/blob/main/github-user-contribution.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/asmaa-elfatayry/github-contribution-image/blob/main/github-user-contribution.svg">
+  <img alt="Contribution Animation" src="https://github.com/asmaa-elfatayry/github-contribution-image/blob/main/github-user-contribution.svg" width="100%">
+</picture>
 
 ---
 
