@@ -109,11 +109,14 @@
   <a href="https://www.notion.so/Design-Patterns-Simple-Guide-2cd5b020cd9a808cb9afda329d688d5f?source=copy_link">
     <img src="https://img.shields.io/badge/View%20My-Notion%20Design%20Patterns%20Guide-lightgreen?style=for-the-badge" alt="Notion Design Patterns Guide">
   </a>
-
     
 <a href="https://www.nuget.org/packages/StackTrace.AI/#readme-body-tab">
   <img src="https://img.shields.io/nuget/v/StackTrace.AI?label=AI-powered%20Error%20Analysis%20Package&style=for-the-badge&color=purple" alt="StackTrace.AI">
 </a>
+
+  <a href="https://www.nuget.org/packages/AICodeReviewer.Murajea">
+    <img src="https://img.shields.io/nuget/v/AICodeReviewer.Murajea?label=AI%20Code%20Reviewer%20-%20Murajea&style=for-the-badge&color=blue&logo=nuget" alt="AICodeReviewer.Murajea">
+  </a>
   
 </div>
 
